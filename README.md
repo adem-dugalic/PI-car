@@ -13,3 +13,4 @@ Just connect to the same network and boot up the app either on your smartphone o
 
 ## Made by
 - Adem Dugalić
+- Tarik Muharem (help on mobile app)
